@@ -32,17 +32,17 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/hek1gIxZGV.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [Recordit](https://recordit.co).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Fun introduction for me to iOS programming!
 
 ## License
 
-    Copyright [2021] [Zev Rosenbaum]
+    Copyright 2021 Zev Rosenbaum
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
